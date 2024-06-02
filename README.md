@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lailaidesu and I'm still a student
+- 👋 Hi, I’m @LaraMae and I'm still a student
 - 👀 I’m interested in any Software Programming Languages and Web Programming Languages
 - 🌱 I’m currently learning Python, Java and C#
 - 💞️ I’m looking to collaborate on this website 
